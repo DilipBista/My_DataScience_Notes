@@ -1,10 +1,15 @@
 ## TODAY I LEARNED 
 
-09-20-21: I we learned few things in SQL, they are Where command, Order By and Limit 
+
+09-20-21: Today we learned how to appropriately use Aggregriate functions like GROUP BY and adding conditions to GROUP BY with HAVING . 
+
+09-20-20: I we learned few things in SQL, they are Where command, Order By and Limit 
 
 
 
-09-21-21: 
+09-21-20: 
+
+I learned about functions such as CONCAT, LIKE / NOT LIKE/ SUBSTR ( these are important top create username and further break down months, and so on).   
 
 Try to think of your results as batches, sets, or pages. The first five results are your first page. The five after that would be your second page, etc. Update the query to find the tenth page of results.
 
