@@ -1,7 +1,28 @@
 ## TODAY I LEARNED 
 
 
-09-20-21: Today we learned how to appropriately use Aggregriate functions like GROUP BY and adding conditions to GROUP BY with HAVING . 
+09-23-21
+- Today we learned about JOIN. There are different types of join such as Inner join, right join, left join, full join etc. 
+Join helps us to join 2 or more table where they have common items in one or many different tables. 
+
+SYNTAX for joining is as below; 
+
+Lets say we have 3 different table as table name as follows 
+ Employee, Manager, and Departments 
+Employee tables has following rows such as .. emp_no, name, DOB, date_hire etc 
+Manager table has following rows such as ... emp_no, dep_no 
+Departments has following table such as .... dep_no, dep_name 
+
+
+FIND what is common then JOIN 
+
+
+
+
+
+
+
+09-20-21: Today we learned how to appropriately use Aggregate functions like GROUP BY and adding conditions to GROUP BY with HAVING . 
 
 09-20-20: I we learned few things in SQL, they are Where command, Order By and Limit 
 
