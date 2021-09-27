@@ -1,5 +1,11 @@
 ## TODAY I LEARNED 
 
+09-27-21
+
+Today we will start class on subqueries. 
+Until last week I have learned basic statements in SQL such as SELECT, FROM DISTINCT and using clauses such as where, order by, group by, limit 
+Functions such as date and time (CURDATE(), NOW(), CURTIME(), Numerical functions such as (AVG, MIN, MAX.. etc) 
+
 
 09-23-21
 - Today we learned about JOIN. There are different types of join such as Inner join, right join, left join, full join etc. 
@@ -15,11 +21,6 @@ Departments has following table such as .... dep_no, dep_name
 
 
 FIND what is common then JOIN 
-
-
-
-
-
 
 
 09-20-21: Today we learned how to appropriately use Aggregate functions like GROUP BY and adding conditions to GROUP BY with HAVING . 
