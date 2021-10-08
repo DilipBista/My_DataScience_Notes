@@ -1,7 +1,15 @@
 ## TODAY I LEARNED 
+10-05-24
+
+Today I learned about functions. 
+- default argument
+Multiple arguments 
+Lamdas 
+
+
 
 10- 04- 21 
-This morning we reviewed Fridays assignment. Instructor showed us ways to talkle and solve problems even though most of the contents were covered in lecture latter today. 
+This morning we reviewed Fridays assignment. Instructor showed us ways to tackle and solve problems even though most of the contents were covered in lecture latter today. 
  Today we learned about control structure. 
 	control structure is a method to control the flow of execution using conditionals and loops 
 
