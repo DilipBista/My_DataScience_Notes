@@ -1,10 +1,59 @@
 ## TODAY I LEARNED 
-10-05-24
+
+10-12-21
+NUMPY : 
+- Use vectorized operations
+- create array if boolean to filter results 
+
+
+
+10- 08-21
+
+Matplotlib :
+  	 used for visualization 
+    
+Intended for interactive plots and simple case of programmatic plot generation.
+		line charts 
+		stater charts 
+
+Subplot 
+
+
+
+10-06-21
+
+Today I learned the advantage of import. It allows us to store our codes so that we can use in future 
+	
+	Module: It is python file with .py extension 
+
+	Package : It is a dictionary that contains modules 
+
+	A Library is a collection of code, data, documentation and configuration, 
+	usually purpose built for specific tasks. 
+
+	Anaconda's CONDA is a package manager. It helps us to find install 3rd party packages. 
+
+Installing packages 
+
+	Conda install package 
+
+	Pip install package 
+
+Importing packages 
+
+	example 
+	import math
+	x=math.sqrt(10)
+	print(x)
+
+
+
+10-05-21
 
 Today I learned about functions. 
 - default argument
-Multiple arguments 
-Lamdas 
+- Multiple arguments 
+- Lamdas 
 
 
 
