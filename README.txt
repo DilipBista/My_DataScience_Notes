@@ -1,5 +1,37 @@
 ## TODAY I LEARNED 
 
+
+
+10-19-21
+
+--- .loc and .iloc
+--- group by 
+
+
+
+
+10-18-21
+
+
+
+-you might need to install pymsql with python -m pip pymsql
+
+- ensure to have .gitignore file and it lists env.py 
+- 
+
+Advanced DataFrames	
+	- Dataframe are rectangular data 
+	- We can make DF from lists of lists, lists of dictionaries and dictionaries of lists 
+	- we can read .csv files into a data frame
+	- we can read.jason files/format for dataframes
+	- we can read results of SQL queries into a dataframe
+
+
+
+
+
+
+
 10-15-21
 
 
