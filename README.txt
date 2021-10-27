@@ -1,13 +1,120 @@
 ## TODAY I LEARNED 
+10-25-21
+STORYTELLING 
+
+
+WHo: konw your audience (who you are going to present.. tech/ non tech people/ their understanding about the tools/methods/ you are using )
+ 
+What: understand what you are presenting (nature and purpose of your visualization)
+
+Why and how: Why did you choose this path instead of other (what were your options  or choices, How: how did you choose this current route instead of others, what made you choose it) 
+
+
+
+
+
+
+Canna link 
+https://www.canva.com/design/DAEUizTFts8/wYm3k4wE20DNR7lx9cGF2g/view?utm_content=DA[…]ts8&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+
+
+examples of cognitive shortcuts
+
+Red:Green  ⇒  Negative:Postive
+
+Red:Blue ⇒  Hot/Active:Cold/Inactive
+
+Hierarchies: Top ⇒  Bottom
+
+Time: Left ⇒  Right
+
+Y-axes: starts at 0 
+
+Up:Down ⇒  North:South, Good:Bad
+
+Lighter:Darker ⇒  Emptier:Fuller, Lower:Higher
+
+Like Colors ⇒ Like Items
+
+Connected data points ⇒  relationship from one value to the next, like time, but not categories
+
+Categories arranged from Most Extreme ⇒  Least Extreme
+
+Color Gradient/Saturation ⇒  Progression of Values
+
+Distinct Colors ⇒  Distinct Categories
+
+
+
+10-22-21
+
+SPREADSHEETS 
+
+Be consistent while naming variables 
+Use proper naming convention (file name, variable names, dates etc..)
+
+
+
+10-20-21
+SEABORNE 
+
+Seaborn is a library that builds on top of matplotlib, and features nice integration with pandas, and the rest of the python data science ecosystem.
+
+- similar like MATPLOTLIB but shorter codes 
+
 
 
 
 10-19-21
 
 --- .loc and .iloc
+- .loc two get specific location 
+.iloc = intiger location ( uses integer only)
+
+# Aggregate functions
+
+example: Sum, count, mean, max, median,
+These functions: 
+
+- aggregate function works on a list, gives us a single number 
+- aggregate functions run on a whole column or they can run on a group 
+
+- df.agg()
+-df.math.agg(['mean', 'max']) # these runs on the list 
+
+
+
+
 --- group by 
 
+Df.groupby("passing_math")
 
+
+ - np.where 
+
+
+
+- .crosstab 
+
+Cross tab takes two series, 
+
+
+
+
+-------------____________---------------------
+
+df['passing_math'] = np.where(df.math <70, 'faling', 'passing')
+
+np.where: is used here as for and while loop 
+
+
+
+
+______________________________________________________________________________________________
+ (\/)
+ (o o) 
+  (O)
+   /\
 
 
 10-18-21
